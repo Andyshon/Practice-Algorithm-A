@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layoutDirection="rtl">
+
+    <item
+        android:id="@+id/size_small"
+        android:title="1 x 1"/>
+
+    <item
+        android:id="@+id/size_medium"
+        android:title="2 x 2"/>
+
+    <item
+        android:id="@+id/size_big"
+        android:title="3 x 3"/>
+
+</menu>
